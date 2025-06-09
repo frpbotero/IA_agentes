@@ -1,0 +1,82 @@
+{   
+   "ativos": [
+   {"ativo": "Banco do Brasil",
+    "ticker":"BBAS3"
+   },
+   {"ativo": "Itaúsa",
+    "ticker":"ITSA4"
+   },
+   {"ativo": "Banco Inter",
+    "ticker":"INBR32"
+   },
+   {"ativo": "Banco BTG Pactual",
+    "ticker":"BPAC11"
+   },
+   {"ativo": "Banco Safra",
+    "ticker":"BSFR3"
+   },
+   {"ativo": "Banco Pan",
+    "ticker":"BPAN4"
+   },
+   {"ativo": "Banco Original",
+    "ticker":"BORI11"
+   },
+   {"ativo": "Banco Daycoval",
+    "ticker":"DAYC4"
+   },
+   {"ativo": "Banco C6",
+    "ticker":"C6SE3"
+   },
+   {"ativo": "Banco Modal",
+    "ticker":"MODL11"
+   },
+   {"ativo": "Banco BMG",
+    "ticker":"BMGB4"
+   },
+   {"ativo": "Banco Fibra",
+    "ticker":"BFIB3"
+   },
+   {"ativo": "Banco Votorantim",
+    "ticker":"BVBI11"
+   },
+   {"ativo": "Banco ABC Brasil",
+    "ticker":"ABCB4"
+   },
+   {"ativo": "Banco Mercantil do Brasil",
+    "ticker":"BMEB4"
+   },
+   {"ativo": "Banco Pine",
+    "ticker":"PINE4"
+   },
+   {"ativo": "Banco Modalmais",
+    "ticker":"MODL3"
+   },
+   {"ativo": "Banco Bocom BBM",
+    "ticker":"BCOM3"
+   },
+   {"ativo": "Banco Indusval & Partners",
+    "ticker":"IDVL3"
+   },
+   {"ativo": "Banco Itau Unibanco",
+    "ticker":"ITUB4"
+   },
+   {"ativo": "Petrobras",
+    "ticker":"PETR3"
+   },
+   {"ativo": "Vale",
+    "ticker":"VALE3"
+   },
+   {"ativo": "Magazine Luiza",
+    "ticker":"MGLU3"
+   },
+   {"ativo": "Ambev",
+    "ticker":"ABEV3"
+   },
+   {"ativo": "Banco Santander Brasil",
+    "ticker":"SANB11"
+   },
+   {"ativo": "Banco Bradesco",
+    "ticker":"BBDC3"
+   }
+   ]
+}
